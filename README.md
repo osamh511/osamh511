@@ -4,29 +4,29 @@
 
 <br clear="left"/>
 
-I specialize in **Backend Development** using **VB.NET** for **Windows Desktop Applications**, and I build my own frameworks following a structured **Layered Architecture** approach.
-
+أنا متخصص في تطوير الواجهة الخلفية باستخدام VB.NET لتطبيقات سطح المكتب لنظام التشغيل Windows، وأقوم ببناء إطارات العمل الخاصة بي باتباع نهج الهندسة المعمارية الطبقية المنظمة (Layered Architecture).
 <br/>
 <br/>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
-### 🧐 More About Me:
+### 🧐 للمزيد عني:
 
-- 🔭 &nbsp; I’m currently building my own VB.NET framework based on Layered Architecture  
-- 🧱 &nbsp; My focus is on clean, maintainable, and scalable desktop solutions  
-- 🛠️ &nbsp; I create custom systems for: inventory, invoices, reports, and role-based login  
-- 💬 &nbsp; Ask me about anything VB.NET, Windows Forms, architecture, or SQL  
-- 📫 &nbsp; You can contact me on [LinkedIn](https://www.linkedin.com/in/osama-vbnet/)  
-- 💼 &nbsp; Check out my work on [GitHub](https://github.com/osama-vbnet)  
+- 🔭 &nbsp; 🔭 أعمل حاليًا على بناء إطار عمل VB.NET خاص بي بناءً على بنية الطبقات.  
+- 🧱 &nbsp; 🧱 أركز على حلول سطح مكتب نظيفة، قابلة للصيانة، وقابلة للتطوير.  
+- 🛠️ &nbsp; 🛠️ أُنشئ أنظمة مخصصة لـ: الجرد، الفواتير، التقارير، وتسجيل الدخول القائم على الأدوار.  
+- 💬 &nbsp; اسألني عن أي شيء يتعلق بـ VB.NET، نماذج Windows، البنية، أو SQL.  
+- 📫 &nbsp; مكنك التواصل معي عبر فيس بوك
+- 📫 &nbsp; يمكنك التواصل معي عن طريق واتس او تلفون 967771358396 
+- 💼 &nbsp; اطلع على أعمالي على GitHub. 
 
 <br/>
 
 ### 🔨 Languages and Tools:
-<a href="#"><img align="left" alt="VB.NET" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/VB.NET_Logo.svg"></a>
+<a href="#"><img align="left" alt="VB.NET" height="42px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMwfNKzAhxxwWjyavg5x5n3teZiiKIve1lgpXyn_EFsbI0HkHn0wlkCIM&s"></a>
 <a href="#"><img align="left" alt="WinForms" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/9/92/.NET_Framework_logo.png"></a>
 <a href="#"><img align="left" alt="SQL Server" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/></a>
+<a href="https://git-scm.com/" target="C++"><img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/></a>
 <a href="#"><img align="left" alt="DevExpress" height="42px" src="https://seeklogo.com/images/D/devexpress-logo-0362B51975-seeklogo.com.png"></a>
 <a href="#"><img align="left" alt="Access" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Microsoft_Office_Access_%282018%E2%80%93present%29.svg"></a>
 
