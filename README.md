@@ -10,7 +10,8 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
-### 🧐 للمزيد عني:
+
+### 🧐 نــبذة عـن ماأقـوم فية:
 
 - 🔭 &nbsp; 🔭 أعمل حاليًا على بناء إطار عمل VB.NET خاص بي بناءً على بنية الطبقات.  
 - 🧱 &nbsp; 🧱 أركز على بناء تطبيقات سطح المكتب مكتملة  نظيفة، قابلة للصيانة، وقابلة للتطوير.  
@@ -20,7 +21,9 @@
 - 📫 &nbsp; يمكنك التواصل معي عن طريق واتس او تلفون 967771358396 
 - 💼 &nbsp; اطلع على أعمالي على GitHub. 
 
+
 <br/>
+
 
 ### 🔨 اللغات والأدوات:
 <a href="#"><img align="left" alt="VB.NET" height="42px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMwfNKzAhxxwWjyavg5x5n3teZiiKIve1lgpXyn_EFsbI0HkHn0wlkCIM&s"></a>
@@ -32,12 +35,36 @@
 
 <br clear="left"/>
 
+
+- &nbsp;⚙️ المهارات الأساسية:
+
+
+- &nbsp; VB.NET (WinForms / Desktop)
+
+- &nbsp;MySQL / SQL / ORCL
+
+- &nbsp;HTML, CSS ,JavaScript
+
+- &nbsp;C++
+
+- &nbsp; التعامل مع Git وGitHub
+
+- &nbsp; تحليل الأنظمة وتخطيط قواعد البيانات
+لاي
+
 ### 📊 إحصائيات GitHub
+
 <img width="70" align="right" height="100" alt="ألوان البرمجة الشهيرة (1)" src="https://github.com/user-attachments/assets/adfef1e8-5074-4d99-835b-1cc913d3514a" />
 <a href='https://github.com/osama-vbnet'>
   
 ![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)  
 ![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+
+
+- &nbsp; 🎯 أهدافي الحالية:
+ - &nbsp; بناء مشاريع قابلة لإعادة الاستخدام
+  - &nbsp; مشاركة الأكواد على GitHub بتوثيق منظم
+  -  &nbsp;تطوير مهاراتي في بناء أنظمة إدارة متكاملة
 
 </a>
 
@@ -49,3 +76,4 @@
 <a href="#"><img alt="برنامج مصرفي" src="./projects/login.svg" height="68" align="left"></a>
 
 <br clear="left"/>
+
