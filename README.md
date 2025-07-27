@@ -1,4 +1,4 @@
-## 👋 Hey, I'm Osama Al-Omaysi!
+## 👋 Hey , I'm Osama Al-Omaysi!
 <a href='https://www.linkedin.com/in/osama-vbnet/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <a href='https://github.com/osama-vbnet'><img align='left' alt="github" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/assets/github.svg" height='18px'/></a>
 
@@ -22,17 +22,17 @@
 
 <br/>
 
-### 🔨 Languages and Tools:
+### 🔨 اللغات والأدوات:
 <a href="#"><img align="left" alt="VB.NET" height="42px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMwfNKzAhxxwWjyavg5x5n3teZiiKIve1lgpXyn_EFsbI0HkHn0wlkCIM&s"></a>
-<a href="#"><img align="left" alt="WinForms" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/9/92/.NET_Framework_logo.png"></a>
-<a href="#"><img align="left" alt="SQL Server" height="42px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkWfxeDPdgHnYdOkQx2851M847STDZwSw_Hw&s"></a>
 <a href="#"><img align="left" alt="C++" height="42px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzL9DuZHJFcckaKhmLCuTFQPJDvBeyqiOdLQ&s" >
 <a href="#"><img align="left" alt="HTML AND CSS" height="42px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2wmrnXo9dJV5NClac5Qdyhj0JuQBjXv-M7dLEoWlM5As1XIuO1pSoyixhEKdXGXpgPDk&usqp=CAU"></a>
-<a href="#"><img align="left" alt="Access" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Microsoft_Office_Access_%282018%E2%80%93present%29.svg"></a>
+<a href="#"><img align="left" alt="ORCL" height="42px" src="https://alkhwarzmi.com/storage/zHIcoC6WEhiXUJD0c2U4voWhW7WEI3YQHlJz50h6.jpg"></a>
+<a href="#"><img align="left" alt="SQL Server" height="42px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkWfxeDPdgHnYdOkQx2851M847STDZwSw_Hw&s"></a>
+
 
 <br clear="left"/>
 
-### 📊 GitHub Stats
+### 📊 إحصائيات GitHub
 <a href='https://github.com/osama-vbnet'>
   
 ![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)  
@@ -42,7 +42,7 @@
 
 <br/>
 
-### 🛠️ Featured Projects
+### 🛠️ المشاريع المميزة
 <a href="#"><img alt="InventorySystem" src="./projects/inventory.svg" height="68" align="left"></a>
 <a href="#"><img alt="ReportBuilder" src="./projects/reportbuilder.svg" height="68" align="left"></a>
 <a href="#"><img alt="LoginManager" src="./projects/login.svg" height="68" align="left"></a>
