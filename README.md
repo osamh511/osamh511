@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="ألوان البرمجة الشهيرة (1)" src="https://github.com/user-attachments/assets/adfef1e8-5074-4d99-835b-1cc913d3514a" />## 👋 Hey , I'm Osama Al-Omaysi!
+## 👋 Hey , I'm Osama Al-Omaysi!
 <a href='https://www.linkedin.com/in/osama-vbnet/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <a href='https://github.com/osama-vbnet'><img align='left' alt="github" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/assets/github.svg" height='18px'/></a>
 
@@ -33,6 +33,7 @@
 <br clear="left"/>
 
 ### 📊 إحصائيات GitHub
+<img width="70" align="right" height="100" alt="ألوان البرمجة الشهيرة (1)" src="https://github.com/user-attachments/assets/adfef1e8-5074-4d99-835b-1cc913d3514a" />
 <a href='https://github.com/osama-vbnet'>
   
 ![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)  
