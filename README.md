@@ -14,8 +14,8 @@
 
 - 🔭 &nbsp; 🔭 أعمل حاليًا على بناء إطار عمل VB.NET خاص بي بناءً على بنية الطبقات.  
 - 🧱 &nbsp; 🧱 أركز على بناء تطبيقات سطح المكتب مكتملة  نظيفة، قابلة للصيانة، وقابلة للتطوير.  
-- 🛠️ &nbsp; 🛠️  ،،أُنشئ أنظمة مخصصة تهدف الى اتمتة النظام التعليمي بشكل كامل من عدة جوانب مثل: تسجيل بيانات الطلاب،برنامج ارشيف مدرسي مكتمل ،،الجرد، الفواتير، التقارير، وتسجيل الدخول القائم على الأدوار.  
-- 💬 &nbsp; اسألني عن أي شيء يتعلق بـ VB.NET، نماذج Windows، البنية، أو SQL.  
+- 🛠️ &nbsp; 🛠️  ،،أُنشئ أنظمة مخصصة تهدف الى اتمتة النظام التعليمي والنظام الوظيفي, والنظام المصرفي,والنظام المخزني,والنظام الشخصي بشكل كامل من عدة جوانب مثلا: تسجيل بيانات , ومعالجة,وحفظ ,ورفع, وتخزين,ونسخة احتياطية, وارشيف ،،الجرد، الفواتير، التقارير، وتسجيل الدخول القائم على الأدوار.  
+- 💬 &nbsp; اسألني عن أي شيء يتعلق بـ VB.NET، نماذج Windows، البنية، أو MySQL,SQL,ORCL  
 - 📫 &nbsp; مكنك التواصل معي عبر فيس بوك
 - 📫 &nbsp; يمكنك التواصل معي عن طريق واتس او تلفون 967771358396 
 - 💼 &nbsp; اطلع على أعمالي على GitHub. 
@@ -27,7 +27,7 @@
 <a href="#"><img align="left" alt="WinForms" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/9/92/.NET_Framework_logo.png"></a>
 <a href="#"><img align="left" alt="SQL Server" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"></a>
 <a href="#"><img align="left" alt="C++" height="42px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzL9DuZHJFcckaKhmLCuTFQPJDvBeyqiOdLQ&s" >
-<a href="#"><img align="left" alt="DevExpress" height="42px" src="https://seeklogo.com/images/D/devexpress-logo-0362B51975-seeklogo.com.png"></a>
+<a href="#"><img align="left" alt="HTML AND CSS" height="42px" src="[https://seeklogo.com/images/D/devexpress-logo-0362B51975-seeklogo.com.png](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNkLUpBGZYVxceDF2XpBT5zZkTn-dCzJUZH7EStJkg0eEPIS1lxiAG-4mJf58R6lSZQ-MMJsX66eJtcfFcWSgzAioEpmfAVgG46Od8FIF-kQP-zQcQcy1M3PNVoLbWQIMiyB1IwwMUl6k/s1600/html+css3+%D8%AA%D8%B9%D9%84%D9%85+%D8%AF%D8%B1%D9%88%D8%B3.png)"></a>
 <a href="#"><img align="left" alt="Access" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Microsoft_Office_Access_%282018%E2%80%93present%29.svg"></a>
 
 <br clear="left"/>
