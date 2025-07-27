@@ -25,7 +25,7 @@
 ### 🔨 Languages and Tools:
 <a href="#"><img align="left" alt="VB.NET" height="42px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMwfNKzAhxxwWjyavg5x5n3teZiiKIve1lgpXyn_EFsbI0HkHn0wlkCIM&s"></a>
 <a href="#"><img align="left" alt="WinForms" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/9/92/.NET_Framework_logo.png"></a>
-<a href="#"><img align="left" alt="SQL Server" height="42px" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4wYVdz51-5_nTQmrZXcAOErqVu5GA3Wco8A&s)"></a>
+<a href="#"><img align="left" alt="SQL Server" height="42px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkWfxeDPdgHnYdOkQx2851M847STDZwSw_Hw&s"></a>
 <a href="#"><img align="left" alt="C++" height="42px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzL9DuZHJFcckaKhmLCuTFQPJDvBeyqiOdLQ&s" >
 <a href="#"><img align="left" alt="HTML AND CSS" height="42px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2wmrnXo9dJV5NClac5Qdyhj0JuQBjXv-M7dLEoWlM5As1XIuO1pSoyixhEKdXGXpgPDk&usqp=CAU"></a>
 <a href="#"><img align="left" alt="Access" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Microsoft_Office_Access_%282018%E2%80%93present%29.svg"></a>
