@@ -26,7 +26,7 @@
 <a href="#"><img align="left" alt="VB.NET" height="42px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMwfNKzAhxxwWjyavg5x5n3teZiiKIve1lgpXyn_EFsbI0HkHn0wlkCIM&s"></a>
 <a href="#"><img align="left" alt="WinForms" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/9/92/.NET_Framework_logo.png"></a>
 <a href="#"><img align="left" alt="SQL Server" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"></a>
-<a href="https://git-scm.com/" target="C++"><img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/></a>
+<a href="https://git-scm.com/" target="C++"><img src="<img src="https://www.4electron.com/wordpress/wp-content/uploads/2020/12/c_4electron.jpg" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 1280px; height: 314px; margin: 0px; width: 558px;" alt="مدخل إلى لغة سي بلس بلس C++ Intro – عالم الإلكترون" jsname="kn3ccd">/></a>
 <a href="#"><img align="left" alt="DevExpress" height="42px" src="https://seeklogo.com/images/D/devexpress-logo-0362B51975-seeklogo.com.png"></a>
 <a href="#"><img align="left" alt="Access" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Microsoft_Office_Access_%282018%E2%80%93present%29.svg"></a>
 
