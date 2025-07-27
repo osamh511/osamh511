@@ -43,8 +43,8 @@
 <br/>
 
 ### 🛠️ المشاريع المميزة
-<a href="#"><img alt="InventorySystem" src="./projects/inventory.svg" height="68" align="left"></a>
-<a href="#"><img alt="ReportBuilder" src="./projects/reportbuilder.svg" height="68" align="left"></a>
-<a href="#"><img alt="LoginManager" src="./projects/login.svg" height="68" align="left"></a>
+<a href="#"><img alt="برنامج ادارة الطلاب" src="./projects/inventory.svg" height="68" align="left"></a>
+<a href="#"><img alt="برنامج تسجيل مسيرة الطالب" src="./projects/reportbuilder.svg" height="68" align="left"></a>
+<a href="#"><img alt="برنامج مصرفي" src="./projects/login.svg" height="68" align="left"></a>
 
 <br clear="left"/>
