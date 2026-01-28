@@ -1,91 +1,150 @@
-## 👋 Hey , I'm Osama Al-Omaysi!
-<a href='https://www.linkedin.com/in/osama-vbnet/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='https://github.com/osama-vbnet'><img align='left' alt="github" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/assets/github.svg" height='18px'/></a>
+# 👋 أهلاً، أنا أسامة العميسي | Osama Al-Omaysi
 
-<br clear="rigt"/>
-**نــبذة عــن نـفـسـي:
+🎯 **Backend Desktop Developer – VB.NET (Windows Forms)**  
+متخصص في بناء تطبيقات سطح المكتب الاحترافية باستخدام **هندسة نظيفة + فصل الطبقات + قواعد بيانات + أنماط التصميم**
 
-مهندس برمجيات/مبرمج: من ألـيمن متفرغ  لأنشاءولتطوير تطبيقات سطح المكتب باستخدام لغة VB.NET. أعتمد في عملي على فصل المسؤوليات بدقة من خلال بناء تطبيقاتي على معمارية الطبقات (Layered Architecture)
- مما يجعل الكود نظيف ، وقابل للتوسع وسهل للصيانة.
-
-أهدف باستمرار إلى بناء إطار عمل خاص بمـايناسب ألمشرؤع  لتنظيم هيكلة المشاريع/ألمشرؤع في ألبناء و بكفاءة عالية، وقد عملت على  بعض المشاريع والبرامج الاحترافية التي تعتمد على هذا المبدأ.
-
-أستطيع اقول احب التخصص في تطوير الواجهة الخلفية باستخدام VB.NET لتطبيقات سطح المكتب لنظام التشغيل Windows، وأقوم ببناء إطارات العمل الخاصة بي باتباع نهج الهندسة المعمارية الطبقية المنظمة (Layered Architecture).
-<br/>
-<br clear="left"/>
-
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-
-
-### 🧐 نــبذة عـن ماأقـوم فية:
-
--- 🔭 &nbsp;  أعمل حاليًا على بناء إطار عمل VB.NET خاص بي بناءً على بنية الطبقات.  
--- 🧱 &nbsp;  أركز على بناء تطبيقات سطح المكتب مكتملة  نظيفة، قابلة للصيانة، وقابلة للتطوير.  
--- 🛠️ &nbsp;   ،،أُنشئ أنظمة مخصصة تهدف الى اتمتة النظام التعليمي والنظام الوظيفي, والنظام المصرفي,والنظام المخزني,والنظام الشخصي بشكل كامل من عدة جوانب مثلا: 
- -- 🛠️ &nbsp; تسجيل بيانات , ومعالجة,وحفظ ,ورفع, وتخزين,ونسخة احتياطية, وارشيف ،،الجرد، الفواتير، التقارير، وتسجيل الدخول القائم على الأدوار.  
---💬 &nbsp; اسألني عن أي شيء يتعلق بـ VB.NET، نماذج Windows، البنية، أو MySQL,SQL,ORCL  
---📫 &nbsp; مكنك التواصل معي عبر فيس بوك
---📫 &nbsp; يمكنك التواصل معي عن طريق واتس او تلفون 967771358396 
--- 💼 &nbsp; اطلع على أعمالي على GitHub. 
-
-
-<br/>
-
-
-### 🔨 اللغات والأدوات:
-<a href="#"><img align="left" alt="VB.NET" height="42px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMwfNKzAhxxwWjyavg5x5n3teZiiKIve1lgpXyn_EFsbI0HkHn0wlkCIM&s"></a>
-<a href="#"><img align="left" alt="C++" height="42px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzL9DuZHJFcckaKhmLCuTFQPJDvBeyqiOdLQ&s" >
-<a href="#"><img align="left" alt="HTML AND CSS" height="42px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2wmrnXo9dJV5NClac5Qdyhj0JuQBjXv-M7dLEoWlM5As1XIuO1pSoyixhEKdXGXpgPDk&usqp=CAU"></a>
-<a href="#"><img align="left" alt="ORCL" height="42px" src="https://alkhwarzmi.com/storage/zHIcoC6WEhiXUJD0c2U4voWhW7WEI3YQHlJz50h6.jpg"></a>
-<a href="#"><img align="left" alt="SQL Server" height="42px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkWfxeDPdgHnYdOkQx2851M847STDZwSw_Hw&s"></a>
-
+<a href="https://www.linkedin.com/in/osama-vbnet/">
+  <img align="left" alt="linkedin" height="20px" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg"/>
+</a>
+<a href="https://github.com/osama-vbnet">
+  <img align="left" alt="github" height="20px" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/assets/github.svg"/>
+</a>
 
 <br clear="left"/>
 
+---
 
-- &nbsp;⚙️ المهارات الأساسية:
+## 🧠 من أنا؟
 
+أنا مطوّر متخصص في **Backend لتطبيقات سطح المكتب باستخدام VB.NET**  
+أبني أنظمة كاملة بمستوى إنتاجي (Production-Level) مع التركيز على:
 
-- &nbsp; VB.NET (WinForms / Desktop)
+- Clean Architecture
+- Layered Architecture (UI / BLL / DAL)
+- Repository Pattern
+- SOLID Principles
+- SQL Server & ADO.NET
+- Authentication & Authorization
 
-- &nbsp;MySQL / SQL / ORCL
+هدفي هو:
+> بناء تطبيقات قوية، نظيفة، قابلة للتوسعة، وسهلة الصيانة — مثل أنظمة الشركات الحقيقية.
 
-- &nbsp;HTML, CSS ,JavaScript
+---
 
-- &nbsp;C++
+## 🚀 ماذا أعمل حاليًا؟
 
-- &nbsp; التعامل مع Git وGitHub
+- 🔭 بناء **Framework خاص بي لـ VB.NET Desktop**
+- 🧱 تصميم قوالب جاهزة (Templates) لإعادة استخدام المعمارية
+- ⚙️ تطوير أنظمة: طلاب – مكتبات – مخازن – أنظمة إدارية
+- 🧠 التركيز على منطق الباك إند أكثر من الواجهة
 
-- &nbsp; تحليل الأنظمة وتخطيط قواعد البيانات
-لاي
+---
 
-### 📊 إحصائيات GitHub
+## 🛠️ التقنيات التي أستخدمها
 
-<img width="70" align="right" height="100" alt="ألوان البرمجة الشهيرة (1)" src="https://github.com/user-attachments/assets/adfef1e8-5074-4d99-835b-1cc913d3514a" />
-<a href='https://github.com/osama-vbnet'>
-  
+### 💻 Desktop & Backend
+- VB.NET (WinForms)
+- ADO.NET
+- SQL Server / LocalDB
+- Stored Procedures
+- Async / Await
+- File Logging
+- App.config
+
+### 🧩 Architecture & Patterns
+- Layered Architecture
+- Clean Architecture
+- Repository Pattern
+- Dependency Injection
+- State Pattern
+- Adapter Pattern
+- Factory Pattern
+- SOLID Principles
+
+### 🗄️ Databases
+- SQL Server
+- MySQL
+- Oracle
+
+### 🔧 Tools
+- Visual Studio 2022
+- Git & GitHub
+- LINQ
+- JSON / CSV Storage
+
+---
+
+## 🔥 أبرز مهاراتي
+
+✅ تصميم قواعد البيانات والعلاقات  
+✅ بناء CRUD احترافي  
+✅ تسجيل دخول + صلاحيات (RBAC)  
+✅ معالجة الأخطاء + Logging  
+✅ تحسين الأداء  
+✅ كتابة كود نظيف قابل للصيانة  
+✅ فصل كامل بين الطبقات  
+
+---
+
+## 📂 مشاريعي المميزة
+
+### 🎓 Student Management System
+- CRUD + DataGridView + Binding
+- Repository Pattern
+- Local Storage
+
+### 📚 Library Management System
+- كتب + أعضاء + إعارات
+- SQL Server
+- Business Rules
+- Multi-Table Relations
+
+### 🔐 Secure Student System (Enterprise Level)
+- Login + Roles + Permissions
+- Async/Await
+- Logging
+- Stored Procedures
+- Clean Architecture
+
+### 🧠 Clean Architecture Demo
+- Adapter + Bridge + Factory
+- تبديل التخزين (CSV / Legacy) بدون تغيير الكود
+- SOLID عملي
+
+👉 يمكنك مشاهدة جميع المشاريع من هنا:
+**https://github.com/osama-vbnet**
+
+---
+
+## 📊 إحصائيات GitHub
+
 ![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)  
 ![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
 
+---
 
-- &nbsp; 🎯 أهدافي الحالية:
- - &nbsp; بناء مشاريع قابلة لإعادة الاستخدام
-  - &nbsp; مشاركة الأكواد على GitHub بتوثيق منظم
-  -  &nbsp;تطوير مهاراتي في بناء أنظمة إدارة متكاملة
-- &nbsp; 🧩 أحب التفكير في التفاصيل، حل المشاكل البرمجية، وتجربة أساليب جديدة لبناء الأكواد بشكل ذكي ومنظم.
-- &nbsp; 📬 تواصل معي لأي تعاون أو سؤال برمجي!
-  📫   مكنك التواصل معي عبر فيس بوك
-📫   يمكنك التواصل معي عن طريق واتس او تلفون 967771358396
-💼   اطلع على أعمالي على GitHub.
+## 🎯 أهدافي الحالية
 
-</a>
+- 🚀 الوصول لمستوى Architect في تطبيقات سطح المكتب
+- 📦 بناء Framework خاص لإعادة الاستخدام
+- 🧪 تعلم Unit Testing
+- ⚡ تحسين الأداء باستخدام Async
+- 🧠 تعميق فهم Design Patterns
 
-<br/>
+---
 
-### 🛠️ المشاريع المميزة
-<a href="#"><img alt="برنامج ادارة الطلاب" src="./projects/inventory.svg" height="68" align="left"></a>
-<a href="#"><img alt="برنامج تسجيل مسيرة الطالب" src="./projects/reportbuilder.svg" height="68" align="left"></a>
-<a href="#"><img alt="برنامج مصرفي" src="./projects/login.svg" height="68" align="left"></a>
+## 💬 تواصل معي
 
-<br clear="left"/>
+- 💼 GitHub: https://github.com/osama-vbnet  
+- 🔗 LinkedIn: https://www.linkedin.com/in/osama-vbnet/  
+- 📱 WhatsApp: +967771358396  
 
+---
+
+## ✨ اقتباسي البرمجي
+
+> "الكود الجيد لا يعمل فقط… بل يُفهم ويُصان ويُوسَّع بسهولة"
+
+---
+
+⭐ إذا أعجبتك مشاريعي لا تنس متابعة الحساب
