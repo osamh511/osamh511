@@ -18,13 +18,23 @@
 
 أنا مطوّر متخصص في **Backend لتطبيقات سطح المكتب باستخدام VB.NET**  
 أبني أنظمة كاملة بمستوى إنتاجي (Production-Level) مع التركيز على:
-
+- VB.NET 
+- .NET Framework
+- WinForms
+- OOP
+- CRUD 
 - Clean Architecture
 - Layered Architecture (UI / BLL / DAL)
-- Repository Pattern
+- Data Structures 
 - SOLID Principles
+- Design Patterns
+- Entity Framework
 - SQL Server & ADO.NET
+- Async/Await SQL
+- Rols
 - Authentication & Authorization
+- Testing
+- Performance & Security
 
 هدفي هو:
 > بناء تطبيقات قوية، نظيفة، قابلة للتوسعة، وسهلة الصيانة — مثل أنظمة الشركات الحقيقية.
