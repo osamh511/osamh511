@@ -59,6 +59,7 @@
 - Stored Procedures
 - Async / Await
 - File Logging
+- Rols
 - App.config
 
 ### 🧩 Architecture & Patterns
@@ -73,8 +74,8 @@
 
 ### 🗄️ Databases
 - SQL Server
-- MySQL
-- Oracle
+- SQL Lite
+- CSV
 
 ### 🔧 Tools
 - Visual Studio 2022
@@ -122,7 +123,7 @@
 - SOLID عملي
 
 👉 يمكنك مشاهدة جميع المشاريع من هنا:
-**https://github.com/osama-vbnet**
+**https://github.com/osamh511?tab=repositories**
 
 ---
 
@@ -145,7 +146,7 @@
 
 ## 💬 تواصل معي
 
-- 💼 GitHub: https://github.com/osama-vbnet  
+- 💼 GitHub: https://github.com/osamh511  
 - 🔗 LinkedIn: https://www.linkedin.com/in/osama-vbnet/  
 - 📱 WhatsApp: +967771358396  
 
