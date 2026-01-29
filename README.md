@@ -55,6 +55,7 @@
 ### 💻 Desktop & Backend
 - VB.NET (WinForms)
 - ADO.NET
+- Entity Framework
 - SQL Server / LocalDB
 - Stored Procedures
 - Async / Await
